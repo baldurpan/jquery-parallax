@@ -10,7 +10,9 @@ Markup can consist of as many elements as you want. Here we have a background an
 ```html
 <div class="container">
 	<div class="background js-parallax" data-parallax-speed="2"></div>
-	<h1 class="js-parallax" data-parallax-speed="5.5">Content with different speed than the background</h1>
+	<h1 class="js-parallax" data-parallax-speed="5.5">
+		Content with different speed than the background
+	</h1>
 </div>
 ```
 
