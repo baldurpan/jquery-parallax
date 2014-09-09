@@ -1,0 +1,27 @@
+{
+  "name": "baldurpan-parallax",
+  "version": "1.0.0",
+  "homepage": "https://github.com/baldurpan/jQuery-Parallax",
+  "authors": [
+    "Baldur Páll Hólmgeirsson <baldurpan@gmail.com>"
+  ],
+  "description": "An easy and efficient parallax using translate3d",
+  "main": "src/jquery.parallax.min.js",
+  "keywords": [
+    "javascript",
+    "parallax",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+	"config.codekit"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  }
+}
