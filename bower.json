@@ -6,7 +6,7 @@
     "Baldur Páll Hólmgeirsson <baldurpan@gmail.com>"
   ],
   "description": "An easy and efficient parallax using translate3d",
-  "main": "src/jquery.parallax.min.js",
+  "main": "src/jquery.parallax.js",
   "keywords": [
     "javascript",
     "parallax",
